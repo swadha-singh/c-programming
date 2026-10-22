@@ -11,13 +11,16 @@ and problem-solving skills.
 
 - Temperature Conversion
   - Celsius to Fahrenheit conversion
-- Factorial of a Number
-  - Calculates the factorial of a given number
 - Multiplication Table
   - Prints the multiplication table of a number
+- Factorial of a Number
+  - Calculates the factorial of a given number
 - Area and Circumference of a Circle
   - Calculates the area and circumference using
     the radius
+- Average and Sum of array
+  - Calculates sum and average of an array entered
+    by the user 
 
 ## Concepts Practised
 
@@ -48,8 +51,7 @@ and problem-solving skills.
 
 ## Future Plans
 
-I plan to add more C programs covering arrays,
-strings, functions, pointers, and other concepts
+I plan to add more C programs covering strings, functions, pointers, and other concepts
 as I continue learning.
 
 ---
